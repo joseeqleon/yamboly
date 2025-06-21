@@ -1,0 +1,15 @@
+C:\Users\lpjua\source\repos\Tienda Yamboly\bin\Debug\Tienda Yamboly.exe.config
+C:\Users\lpjua\source\repos\Tienda Yamboly\bin\Debug\Tienda Yamboly.exe
+C:\Users\lpjua\source\repos\Tienda Yamboly\bin\Debug\Tienda Yamboly.pdb
+C:\Users\lpjua\source\repos\Tienda Yamboly\bin\Debug\CapaEntidad.dll
+C:\Users\lpjua\source\repos\Tienda Yamboly\bin\Debug\CapaLogica.dll
+C:\Users\lpjua\source\repos\Tienda Yamboly\bin\Debug\CapaEntidad.pdb
+C:\Users\lpjua\source\repos\Tienda Yamboly\bin\Debug\CapaLogica.pdb
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda Yamboly.csproj.AssemblyReference.cache
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda_Yamboly.Menu.resources
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda_Yamboly.Properties.Resources.resources
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda Yamboly.csproj.GenerateResource.cache
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda Yamboly.csproj.CoreCompileInputs.cache
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda Y.D8B420DA.Up2Date
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda Yamboly.exe
+C:\Users\lpjua\source\repos\Tienda Yamboly\obj\Debug\Tienda Yamboly.pdb
