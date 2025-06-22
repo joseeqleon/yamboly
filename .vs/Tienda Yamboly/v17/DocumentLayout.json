@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{23370196-9A43-4C04-9534-BBBDD0DDDCB8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|c:\\users\\lpjua\\source\\repos\\tienda yamboly\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|C:\\Users\\lpjua\\source\\repos\\Tienda Yamboly\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|c:\\users\\lpjua\\source\\repos\\tienda yamboly\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|C:\\Users\\lpjua\\source\\repos\\Tienda Yamboly\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|C:\\Users\\lpjua\\source\\repos\\Tienda Yamboly\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0344A94-4396-4043-B800-1101CB9F4A1F}|Tienda Yamboly.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\lpjua\\source\\repos\\Tienda Yamboly\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
               "ToolTip": "C:\\Users\\lpjua\\source\\repos\\Tienda Yamboly\\CapaDatos\\Conexion.cs",
               "RelativeToolTip": "CapaDatos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T22:13:14.844Z",
               "EditorCaption": ""
@@ -85,8 +85,7 @@
               "RelativeToolTip": "CapaLogica\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T22:12:56.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T22:12:56.478Z"
             },
             {
               "$type": "Document",
@@ -102,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\lpjua\\source\\repos\\Tienda Yamboly\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
